@@ -1,0 +1,61 @@
+.admin-panel {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    font-family: 'Courier New', monospace;
+  }
+  
+  .neon {
+    text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 30px #39ff14, 0 0 40px #39ff14;
+  }
+  
+  .form-container {
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-input {
+    margin-bottom: 10px;
+    padding: 8px;
+    background-color: #333;
+    border: none;
+    color: #fff;
+  }
+  
+  .form-button {
+    padding: 8px;
+    background-color: #39ff14;
+    color: #000;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .error-message {
+    color: #ff3939;
+    text-shadow: 0 0 10px #ff3939;
+  }
+  
+  .success-message {
+    color: #39ff14;
+    text-shadow: 0 0 10px #39ff14;
+  }
+  
+  .content-container {
+    margin-bottom: 20px;
+  }
+  
+  .link-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .neon-link {
+    color: #39ff14;
+    text-decoration: none;
+    text-shadow: 0 0 10px #39ff14, 0 0 20px #39ff14, 0 0 30px #39ff14, 0 0 40px #39ff14;
+    margin: 0 10px;
+  }
